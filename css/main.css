@@ -48,15 +48,13 @@ h2 {
 }
 
 
-
-
 /*табличное оформление*/
 .block-organization {
-text-align: justify;
+text-align: center;
 }
 
 .block-cell{
-	width: 300px;
+	width: 317px;
 	padding: 0;
 	display: inline-block;
 }
@@ -67,13 +65,13 @@ text-align: justify;
 
 .block-ul img{
 	float: left;
-	padding-right: 10px;	
+	padding-right: 10px;
 }
 
 .block-ul ul {
 	margin: 10px;
 	padding: 0;
-	
+
 }
 
 
